@@ -1,3 +1,3 @@
 print("Hello World!")
-def hello World():
+def helloWorld():
     pass
